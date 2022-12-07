@@ -4,7 +4,7 @@
   "description": "RenJS is a javascript library to make Visual Novels. It's easy for writers to use and easy for programmers to extend. Inspired by RenPy, powered by Phaser.",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
